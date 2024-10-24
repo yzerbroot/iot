@@ -1,0 +1,17 @@
+{
+	"vitals": {
+		"reboots": 2,
+		"pre40": 0,
+		"uptime": 244820,
+		"ver": "1.4.0.1138",
+		"ip": "192.168.178.83",
+		"mac": "66:E8:33:60:77:50",
+		"refresh": 60,
+		"refresh-v": 600,
+		"wifi": 0,
+		"wifi-rssi": 0,
+		"dtr-out": 0,
+		"msg": "",
+		"rebootreason": 1
+	}
+}
